@@ -21,3 +21,5 @@
 9. Email service using javamail
 
 10. https://github.com/maildev/maildev
+
+11. launch maildev: http://0.0.0.0:1080
